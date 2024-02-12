@@ -1,0 +1,171 @@
+﻿age;region;gender;participants;RR
+18-24 ;Andalucía ;Hombre ;148;0,148648649
+18-24 ;Andalucía ;Mujer ;334;0,107784431
+18-24 ;Aragón ;Hombre ;29;0,068965517
+18-24 ;Aragón ;Mujer ;68;0,161764706
+18-24 ;Principado de Asturias ;Hombre ;10;0,2
+18-24 ;Principado de Asturias ;Mujer ;24;0,166666667
+18-24 ;Illes Balears ;Hombre ;23;0,086956522
+18-24 ;Illes Balears ;Mujer ;39;0,128205128
+18-24 ;Canarias ;Hombre ;26;0,115384615
+18-24 ;Canarias ;Mujer ;45;0,155555556
+18-24 ;Cantabria ;Hombre ;7;0,142857143
+18-24 ;Cantabria ;Mujer ;17;0,058823529
+18-24 ;Castilla y León ;Hombre ;57;0,192982456
+18-24 ;Castilla y León ;Mujer ;109;0,137614679
+18-24 ;Castilla-La Mancha ;Hombre ;40;0,2
+18-24 ;Castilla-La Mancha ;Mujer ;78;0,141025641
+18-24 ;Catalunya ;Hombre ;160;0,15
+18-24 ;Catalunya ;Mujer ;344;0,156976744
+18-24 ;Comunitat Valenciana ;Hombre ;109;0,119266055
+18-24 ;Comunitat Valenciana ;Mujer ;267;0,127340824
+18-24 ;Extremadura ;Hombre ;16;0,0625
+18-24 ;Extremadura ;Mujer ;29;0,103448276
+18-24 ;Galicia ;Hombre ;25;0,12
+18-24 ;Galicia ;Mujer ;96;0,135416667
+18-24 ;Madrid ;Hombre ;148;0,101351351
+18-24 ;Madrid ;Mujer ;395;0,149367089
+18-24 ;Murcia ;Hombre ;31;0,032258065
+18-24 ;Murcia ;Mujer ;68;0,147058824
+18-24 ;Navarra ;Hombre ;4;0
+18-24 ;Navarra ;Mujer ;20;0,1
+18-24 ;País Vasco ;Hombre ;35;0,114285714
+18-24 ;País Vasco ;Mujer ;55;0,163636364
+18-24 ;La Rioja ;Hombre ;9;0,222222222
+18-24 ;La Rioja ;Mujer ;15;0,2
+25-34 ;Andalucía ;Hombre ;615;0,365853659
+25-34 ;Andalucía ;Mujer ;1623;0,314849045
+25-34 ;Aragón ;Hombre ;81;0,432098765
+25-34 ;Aragón ;Mujer ;305;0,321311475
+25-34 ;Principado de Asturias ;Hombre ;56;0,428571429
+25-34 ;Principado de Asturias ;Mujer ;150;0,346666667
+25-34 ;Illes Balears ;Hombre ;58;0,327586207
+25-34 ;Illes Balears ;Mujer ;205;0,326829268
+25-34 ;Canarias ;Hombre ;97;0,329896907
+25-34 ;Canarias ;Mujer ;244;0,307377049
+25-34 ;Cantabria ;Hombre ;37;0,351351351
+25-34 ;Cantabria ;Mujer ;100;0,38
+25-34 ;Castilla y León ;Hombre ;209;0,397129187
+25-34 ;Castilla y León ;Mujer ;637;0,335949765
+25-34 ;Castilla-La Mancha ;Hombre ;140;0,407142857
+25-34 ;Castilla-La Mancha ;Mujer ;404;0,314356436
+25-34 ;Catalunya ;Hombre ;629;0,395866455
+25-34 ;Catalunya ;Mujer ;1633;0,356399265
+25-34 ;Comunitat Valenciana ;Hombre ;385;0,371428571
+25-34 ;Comunitat Valenciana ;Mujer ;1000;0,31
+25-34 ;Extremadura ;Hombre ;74;0,391891892
+25-34 ;Extremadura ;Mujer ;198;0,328282828
+25-34 ;Galicia ;Hombre ;110;0,354545455
+25-34 ;Galicia ;Mujer ;451;0,341463415
+25-34 ;Madrid ;Hombre ;794;0,380352645
+25-34 ;Madrid ;Mujer ;2043;0,325012237
+25-34 ;Murcia ;Hombre ;114;0,377192982
+25-34 ;Murcia ;Mujer ;247;0,340080972
+25-34 ;Navarra ;Hombre ;40;0,4
+25-34 ;Navarra ;Mujer ;100;0,38
+25-34 ;País Vasco ;Hombre ;118;0,36440678
+25-34 ;País Vasco ;Mujer ;368;0,399456522
+25-34 ;La Rioja ;Hombre ;20;0,55
+25-34 ;La Rioja ;Mujer ;67;0,373134328
+35-44 ;Andalucía ;Hombre ;1109;0,427412083
+35-44 ;Andalucía ;Mujer ;1925;0,314285714
+35-44 ;Aragón ;Hombre ;212;0,41509434
+35-44 ;Aragón ;Mujer ;447;0,357941834
+35-44 ;Principado de Asturias ;Hombre ;136;0,463235294
+35-44 ;Principado de Asturias ;Mujer ;309;0,323624595
+35-44 ;Illes Balears ;Hombre ;115;0,434782609
+35-44 ;Illes Balears ;Mujer ;285;0,326315789
+35-44 ;Canarias ;Hombre ;192;0,401041667
+35-44 ;Canarias ;Mujer ;340;0,355882353
+35-44 ;Cantabria ;Hombre ;98;0,479591837
+35-44 ;Cantabria ;Mujer ;195;0,364102564
+35-44 ;Castilla y León ;Hombre ;455;0,41978022
+35-44 ;Castilla y León ;Mujer ;986;0,366125761
+35-44 ;Castilla-La Mancha ;Hombre ;309;0,394822006
+35-44 ;Castilla-La Mancha ;Mujer ;624;0,296474359
+35-44 ;Catalunya ;Hombre ;996;0,432730924
+35-44 ;Catalunya ;Mujer ;2140;0,362149533
+35-44 ;Comunitat Valenciana ;Hombre ;687;0,414847162
+35-44 ;Comunitat Valenciana ;Mujer ;1310;0,322900763
+35-44 ;Extremadura ;Hombre ;144;0,4375
+35-44 ;Extremadura ;Mujer ;280;0,357142857
+35-44 ;Galicia ;Hombre ;288;0,472222222
+35-44 ;Galicia ;Mujer ;828;0,346618357
+35-44 ;Madrid ;Hombre ;1497;0,422845691
+35-44 ;Madrid ;Mujer ;2731;0,358842915
+35-44 ;Murcia ;Hombre ;178;0,43258427
+35-44 ;Murcia ;Mujer ;272;0,286764706
+35-44 ;Navarra ;Hombre ;70;0,485714286
+35-44 ;Navarra ;Mujer ;136;0,448529412
+35-44 ;País Vasco ;Hombre ;252;0,476190476
+35-44 ;País Vasco ;Mujer ;512;0,404296875
+35-44 ;La Rioja ;Hombre ;45;0,466666667
+35-44 ;La Rioja ;Mujer ;100;0,41
+45-54 ;Andalucía ;Hombre ;1446;0,412171508
+45-54 ;Andalucía ;Mujer ;1868;0,316916488
+45-54 ;Aragón ;Hombre ;306;0,480392157
+45-54 ;Aragón ;Mujer ;502;0,38247012
+45-54 ;Principado de Asturias ;Hombre ;262;0,435114504
+45-54 ;Principado de Asturias ;Mujer ;386;0,367875648
+45-54 ;Illes Balears ;Hombre ;157;0,452229299
+45-54 ;Illes Balears ;Mujer ;273;0,366300366
+45-54 ;Canarias ;Hombre ;246;0,406504065
+45-54 ;Canarias ;Mujer ;354;0,375706215
+45-54 ;Cantabria ;Hombre ;111;0,459459459
+45-54 ;Cantabria ;Mujer ;174;0,350574713
+45-54 ;Castilla y León ;Hombre ;611;0,427168576
+45-54 ;Castilla y León ;Mujer ;1047;0,374403056
+45-54 ;Castilla-La Mancha ;Hombre ;343;0,402332362
+45-54 ;Castilla-La Mancha ;Mujer ;513;0,307992203
+45-54 ;Catalunya ;Hombre ;1542;0,452658885
+45-54 ;Catalunya ;Mujer ;2495;0,362324649
+45-54 ;Comunitat Valenciana ;Hombre ;976;0,429303279
+45-54 ;Comunitat Valenciana ;Mujer ;1450;0,308275862
+45-54 ;Extremadura ;Hombre ;183;0,453551913
+45-54 ;Extremadura ;Mujer ;284;0,323943662
+45-54 ;Galicia ;Hombre ;457;0,479212254
+45-54 ;Galicia ;Mujer ;816;0,375
+45-54 ;Madrid ;Hombre ;2154;0,420612813
+45-54 ;Madrid ;Mujer ;3076;0,353706112
+45-54 ;Murcia ;Hombre ;195;0,435897436
+45-54 ;Murcia ;Mujer ;270;0,288888889
+45-54 ;Navarra ;Hombre ;83;0,469879518
+45-54 ;Navarra ;Mujer ;166;0,403614458
+45-54 ;País Vasco ;Hombre ;425;0,510588235
+45-54 ;País Vasco ;Mujer ;663;0,405731523
+45-54 ;La Rioja ;Hombre ;56;0,464285714
+45-54 ;La Rioja ;Mujer ;94;0,382978723
+55-64 ;Andalucía ;Hombre ;868;0,435483871
+55-64 ;Andalucía ;Mujer ;797;0,316185696
+55-64 ;Aragón ;Hombre ;219;0,479452055
+55-64 ;Aragón ;Mujer ;286;0,384615385
+55-64 ;Principado de Asturias ;Hombre ;159;0,496855346
+55-64 ;Principado de Asturias ;Mujer ;187;0,336898396
+55-64 ;Illes Balears ;Hombre ;101;0,544554455
+55-64 ;Illes Balears ;Mujer ;116;0,362068966
+55-64 ;Canarias ;Hombre ;141;0,460992908
+55-64 ;Canarias ;Mujer ;148;0,310810811
+55-64 ;Cantabria ;Hombre ;67;0,447761194
+55-64 ;Cantabria ;Mujer ;80;0,375
+55-64 ;Castilla y León ;Hombre ;311;0,482315113
+55-64 ;Castilla y León ;Mujer ;412;0,368932039
+55-64 ;Castilla-La Mancha ;Hombre ;208;0,418269231
+55-64 ;Castilla-La Mancha ;Mujer ;210;0,333333333
+55-64 ;Catalunya ;Hombre ;999;0,491491491
+55-64 ;Catalunya ;Mujer ;1266;0,397314376
+55-64 ;Comunitat Valenciana ;Hombre ;588;0,43877551
+55-64 ;Comunitat Valenciana ;Mujer ;684;0,315789474
+55-64 ;Extremadura ;Hombre ;98;0,530612245
+55-64 ;Extremadura ;Mujer ;111;0,405405405
+55-64 ;Galicia ;Hombre ;249;0,497991968
+55-64 ;Galicia ;Mujer ;271;0,365313653
+55-64 ;Madrid ;Hombre ;1286;0,439346812
+55-64 ;Madrid ;Mujer ;1429;0,357592722
+55-64 ;Murcia ;Hombre ;143;0,475524476
+55-64 ;Murcia ;Mujer ;114;0,350877193
+55-64 ;Navarra ;Hombre ;56;0,535714286
+55-64 ;Navarra ;Mujer ;76;0,355263158
+55-64 ;País Vasco ;Hombre ;281;0,516014235
+55-64 ;País Vasco ;Mujer ;281;0,419928826
+55-64 ;La Rioja ;Hombre ;30;0,533333333
+55-64 ;La Rioja ;Mujer ;42;0,5
